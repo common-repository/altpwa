@@ -1,0 +1,116 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: altPWA\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2008-08-13 14:24+0200\n"
+"PO-Revision-Date: \n"
+"Last-Translator: Radu Capan <radu@capan.ro>\n"
+"Language-Team: Radu Capan <radu@capan.ro>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-Language: English\n"
+"X-Poedit-Country: UNITED STATES\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: c:\\temp\\altpwa\\trunk\n"
+
+#: c:\temp\altpwa\trunk/alt-pwa.php:19
+#: c:\temp\altpwa\trunk/alt-pwa.php:54
+#: c:\temp\altpwa\trunk/alt-pwa.php:55
+#: c:\temp\altpwa\trunk/alt-pwa.php:58
+msgid "no"
+msgstr "no"
+
+#: c:\temp\altpwa\trunk/alt-pwa.php:47
+#: c:\temp\altpwa\trunk/alt-pwa.php:76
+msgid "Options"
+msgstr "Options"
+
+#: c:\temp\altpwa\trunk/alt-pwa.php:54
+#: c:\temp\altpwa\trunk/alt-pwa.php:55
+#: c:\temp\altpwa\trunk/alt-pwa.php:110
+#: c:\temp\altpwa\trunk/alt-pwa.php:116
+msgid "yes"
+msgstr "yes"
+
+#: c:\temp\altpwa\trunk/alt-pwa.php:73
+msgid "Done with updating"
+msgstr "Done with updating"
+
+#: c:\temp\altpwa\trunk/alt-pwa.php:81
+msgid "Thumb size"
+msgstr "Thumb size"
+
+#: c:\temp\altpwa\trunk/alt-pwa.php:87
+msgid "Thumb 2 size"
+msgstr "Thumb 2 size"
+
+#: c:\temp\altpwa\trunk/alt-pwa.php:93
+msgid "Image size"
+msgstr "Image size"
+
+#: c:\temp\altpwa\trunk/alt-pwa.php:99
+msgid "Number of rows"
+msgstr "Number of rows"
+
+#: c:\temp\altpwa\trunk/alt-pwa.php:101
+msgid "Number of cols"
+msgstr "Number of cols"
+
+#: c:\temp\altpwa\trunk/alt-pwa.php:103
+msgid "Spacing"
+msgstr "Spacing"
+
+#: c:\temp\altpwa\trunk/alt-pwa.php:105
+msgid "Albums/page"
+msgstr "Albums/page"
+
+#: c:\temp\altpwa\trunk/alt-pwa.php:107
+msgid "Lightbox"
+msgstr "Lightbox"
+
+#: c:\temp\altpwa\trunk/alt-pwa.php:113
+msgid "Link to Picasa"
+msgstr "Link to Picasa"
+
+#: c:\temp\altpwa\trunk/alt-pwa.php:122
+msgid "Update options"
+msgstr "Update options"
+
+#: c:\temp\altpwa\trunk/alt-pwa.php:140
+msgid "Image"
+msgstr "Image"
+
+#: c:\temp\altpwa\trunk/alt-pwa.php:141
+msgid "of"
+msgstr "of"
+
+#: c:\temp\altpwa\trunk/alt-pwa.php:192
+#: c:\temp\altpwa\trunk/alt-pwa.php:271
+msgid "Pages"
+msgstr "Pages"
+
+#: c:\temp\altpwa\trunk/alt-pwa.php:204
+#: c:\temp\altpwa\trunk/alt-pwa.php:244
+#: c:\temp\altpwa\trunk/alt-pwa.php:328
+msgid "photos"
+msgstr "photos"
+
+#: c:\temp\altpwa\trunk/alt-pwa.php:314
+msgid "Note"
+msgstr "Note"
+
+#: c:\temp\altpwa\trunk/alt-pwa.php:314
+msgid "To see the pictures in the original Picasa album, click"
+msgstr "To see the pictures in the original Picasa album, click"
+
+#: c:\temp\altpwa\trunk/alt-pwa.php:314
+msgid "here"
+msgstr "here"
+
+#: c:\temp\altpwa\trunk/alt-pwa.php:359
+msgid "original image"
+msgstr "original image"
+
